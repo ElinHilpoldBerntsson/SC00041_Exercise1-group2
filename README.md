@@ -1,4 +1,4 @@
-\# Line Uppercase Analyzer
+# Line Uppercase Analyzer
 
 
 
@@ -10,17 +10,17 @@ For each line in the input file, the script shows:
 
 
 
-\- the line number
+- the line number
 
-\- the number of characters in the line
+- the number of characters in the line
 
-\- the number of uppercase letters
+- the number of uppercase letters
 
-\- the percentage of uppercase characters
+- the percentage of uppercase characters
 
 
 
-\## File Used
+## File Used
 
 
 
@@ -28,7 +28,7 @@ The input file is a .txt file
 
 
 
-\## Dummy input data
+## Dummy input data
 
 
 
@@ -36,7 +36,7 @@ The file sample .txt is an example file to test the code.
 
 
 
-\## How to run it
+## How to run it
 
 
 
@@ -46,7 +46,7 @@ Make sure you have Python installed. Open a terminal in the project folder and r
 
 ```bash
 
-python analyze\\\\\\\_text.py
+python analyze_text.py
 
 ```
 
