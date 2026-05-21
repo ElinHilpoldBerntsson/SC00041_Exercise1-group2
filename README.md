@@ -34,3 +34,19 @@ The input file is a .txt file
 
 The file sample .txt is an example file to test the code.
 
+
+
+\## How to run it
+
+
+
+Make sure you have Python installed. Open a terminal in the project folder and run:
+
+
+
+```bash
+
+python analyze\\\\\\\_text.py
+
+```
+
