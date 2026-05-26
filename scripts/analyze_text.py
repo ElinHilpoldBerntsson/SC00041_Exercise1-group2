@@ -1,3 +1,6 @@
+#this looks fine to me :) 
+
+
 My_file = "/home/user/Desktop/sample.txt" 
 
 print("Line\tChars\tUppercase\t% Upper")
