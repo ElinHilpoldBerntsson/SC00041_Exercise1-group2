@@ -24,7 +24,7 @@ For each line in the input file, the script shows:
 
 
 
-The input file is a .txt file
+The input file is a .txt file and has to be in the same folder as the code
 
 
 
